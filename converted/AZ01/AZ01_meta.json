@@ -1,0 +1,429 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "\u7248\u6743\u58f0\u660e",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                236.1999969482422,
+                690.25,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e00\u3001\u4e2d\u56fd5G\u9010\u6b65\u8fc8\u5411\u9ad8\u8d28\u91cf\u53d1\u5c55",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u653f\u7b56\u4f53\u7cfb\u9010\u6b65\u5b8c\u5907",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                579.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u7f51\u7edc\u5efa\u8bbe\u6301\u7eed\u5411\u6df1\u8fdc\u8fc8\u8fdb",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                287.8999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff09\u6807\u51c6\u7814\u5236\u8fdb\u51655G-Advanced\u9636\u6bb5",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                486.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u56db\uff09\u624b\u673a\u51fa\u8d27\u91cf\u5b9e\u73b0\u6b63\u589e\u957f",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                673.2999877929688,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e94\uff09\u884c\u4e1a\u5e94\u7528\u751f\u6001\u7a33\u6b65\u58ee\u5927",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                238.10000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "1.\u884c\u4e1a\u7ec8\u7aef\u9010\u6b65\u8d8b\u5411\u4e13\u4e1a\u5316\u3001\u7cbe\u7ec6\u5316\u53d1\u5c55",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                203.89999389648438,
+                0.0
+            ]
+        },
+        {
+            "title": "2.\u884c\u4e1a\u5e73\u53f0\u9ad8\u6548\u652f\u6491\u878d\u5408\u5e94\u7528\u89c4\u6a21\u5316\u53d1\u5c55",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                579.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u516d\uff09\u878d\u5408\u5e94\u7528\u89c4\u6a21\u53d1\u5c55",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                168.10000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "1.5G\u4e2a\u4eba\u5e94\u7528\u5e02\u573a\u5e73\u7a33\u5411\u597d",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                133.89999389648438,
+                0.0
+            ]
+        },
+        {
+            "title": "2.5G\u884c\u4e1a\u5e94\u7528\u6e17\u900f\u7387\u7a33\u6b65\u63d0\u5347",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                142.89999389648438,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e8c\u30015G\u6301\u7eed\u91ca\u653e\u5bf9\u7ecf\u6d4e\u793e\u4f1a\u8d4b\u80fd\u4f5c\u7528",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff095G\u52a9\u529b\u6570\u5b57\u5316\u6295\u8d44\u7a33\u4e2d\u63d0\u8d28",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                392.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff095G\u91ca\u653e\u6570\u5b57\u6d88\u8d39\u5e02\u573a\u6f5c\u80fd",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                423.70001220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff095G\u53d8\u9769\u6570\u667a\u5316\u751f\u4ea7\u65b0\u6a21\u5f0f",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                735.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u56db\uff095G\u6fc0\u53d1\u65b0\u5174\u4e1a\u6001\u840c\u82bd\u53d1\u5c55",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                142.89999389648438,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e94\uff095G\u63a8\u52a8\u793e\u4f1a\u6cbb\u7406\u7cbe\u51c6\u5316\u53d1\u5c55",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                673.2999877929688,
+                0.0
+            ]
+        },
+        {
+            "title": "1.5G\u63d0\u5347\u793e\u4f1a\u6cbb\u5b89\u6cbb\u7406\u6548\u80fd",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                480.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "2.5G\u52a0\u5f3a\u81ea\u7136\u707e\u5bb3\u5e94\u6025\u80fd\u529b\u73b0\u4ee3\u5316\u6c34\u5e73",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                704.5,
+                0.0
+            ]
+        },
+        {
+            "title": "3.5G\u52a9\u529b\u6253\u9020\u751f\u6001\u73af\u5883\u4fdd\u62a4\u65b0\u6a21\u5f0f",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                199.3000030517578,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5G\u4fc3\u8fdb\u793e\u4f1a\u516c\u5171\u670d\u52a1\u80fd\u529b\u5efa\u8bbe\u63d0\u8d28\u589e\u6548",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                298.8999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e09\u3001\u51dd\u5fc3\u805a\u529b\u63a8\u52a85G\u7e41\u8363\u53d1\u5c55",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                707.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u63d0\u5347\u7f51\u7edc\u4f9b\u7ed9\u80fd\u529b\uff0c\u592f\u5b9e\u6570\u5b57\u7ecf\u6d4e\u53d1\u5c55\u5e95\u5ea7",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                236.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u63a8\u52a8\u6280\u672f\u6807\u51c6\u6f14\u8fdb\uff0c\u539a\u690d\u4ea7\u4e1a\u521b\u65b0\u53d1\u5c55\u52a8\u529b",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                517.2999877929688,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff09\u5e26\u52a8\u4ea7\u4e1a\u751f\u6001\u7e41\u8363\uff0c\u589e\u5f3a\u4ea7\u4e1a\u6570\u5b57\u5316\u4f9b\u7ed9\u6c34\u5e73",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                136.89999389648438,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u56db\uff09\u52a0\u901f\u4e2a\u4eba\u5e94\u7528\u521b\u65b0\uff0c\u9a71\u52a8\u6570\u5b57\u6d88\u8d39\u63d0\u8d28\u5347\u7ea7",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                330.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e94\uff09\u4fc3\u8fdb\u5e94\u7528\u89c4\u6a21\u53d1\u5c55\uff0c\u53d1\u6325\u6570\u5b9e\u878d\u5408\u6ea2\u51fa\u6548\u5e94",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                121.85000610351562,
+                642.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "\u9644\u4ef6\uff1a5G\u5bf9\u7ecf\u6d4e\u793e\u4f1a\u5f71\u54cd\u7684\u6d4b\u7b97\u65b9\u6cd5\u8bf4\u660e",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                766.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "1.\u6d4b\u7b97\u8303\u56f4\u7684\u8bf4\u660e",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                122.0,
+                698.5,
+                0.0
+            ]
+        },
+        {
+            "title": "2.\u6d4b\u7b97\u6a21\u578b\u7684\u8bf4\u660e",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                122.0,
+                769.9000244140625,
+                0.0
+            ]
+        }
+    ],
+    "pages": 37,
+    "ocr_stats": {
+        "ocr_pages": 2,
+        "ocr_failed": 0,
+        "ocr_success": 2,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 30,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

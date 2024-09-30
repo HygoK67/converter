@@ -1,0 +1,221 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "\u51dd\u805a\u5408\u529b\uff1a\u5f3a\u5316\u515a\u59d4\u4e2d\u5fc3\u7ec4\u5b66\u4e60\u5f15\u9886",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                635.8499755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "\u5584\u7528\u5185\u529b\uff1a\u521b\u65b0\u5b66\u4e60\u8f7d\u4f53\u4e0e\u5f62\u5f0f",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                562.4500122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\u5de7\u501f\u5916\u529b\uff1a\u53d1\u6325\u57fa\u5c42\u515a\u652f\u90e8\u4e3b\u4f53\u4f5c\u7528",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                473.4499816894531,
+                0.0
+            ]
+        },
+        {
+            "title": "\u5e7f\u5dde\u8054\u901a\uff1a\u7ea2\u8272\u5ba3\u8bb2\u56e2\u70b9\u4eae\u57fa\u5c42\u4e00\u7ebf",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                275.25,
+                0.0
+            ]
+        },
+        {
+            "title": "\u6c5f\u95e8\u8054\u901a\uff1a\u4fa8\u4e61\u7279\u8272\u5ba3\u8bb2\uff0c\u51dd\u805a\u4fa8\u5fc3\u4fa8\u529b",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                170.65000915527344,
+                0.0
+            ]
+        },
+        {
+            "title": "\u6c55\u5c3e\u8054\u901a\uff1a\u4f18\u79c0\u4ee3\u8868\u5f15\u9886\uff0c\u6380\u8d77\u5b66\u4e60\u70ed\u6f6e",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\u8302\u540d\u8054\u901a\uff1a\u7ebf\u4e0a\u7ebf\u4e0b\u878d\u5408\uff0c\u66f4\u65b0\u5ba3\u4f20\u9635\u5730",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                696.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\u6c55\u5934\u8054\u901a\uff1a\u5b66\u8bb2\u5199\u8bae\uff0c\u8d2f\u5f7b\u7cbe\u795e",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                272.3999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e1c\u839e\u8054\u901a\uff1a\u6c83\u9882\u515a\u5149\u8f89\uff0c\u5171\u7b51\u8054\u901a\u68a6",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                199.0,
+                0.0
+            ]
+        },
+        {
+            "title": "\u6c5f\u95e8\u8054\u901a\uff1a\u60c5\u6696\u51ac\u65e5\uff0c\u767e\u65e5\u51b2\u523a",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                125.5999984741211,
+                0.0
+            ]
+        },
+        {
+            "title": "\u5e7f\u5dde\u8054\u901a\uff1a\u53d1\u6325\u65b0\u5a92\u4f53\u4f18\u52bf\uff0c\u7b56\u5212\u9752\u5e74\u8bf4\u4e13\u9898",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                716.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "\u6e5b\u6c5f\u8054\u901a\uff1a\u6570\u5b57\u8d4b\u80fd\uff0c\u667a\u542f\u672a\u6765",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                642.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\u97f6\u5173\u8054\u901a\uff1a\u667a\u6167\u515a\u5efa\uff0c\u5f15\u9886\u632f\u5174",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                538.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4f5b\u5c71\u8054\u901a\uff1a\u9752\u6625\u5efa\u529f\uff0c\u7efd\u653e\u98ce\u91c7",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                449.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\u7ed3\u8bed\uff1a\u7825\u783a\u524d\u884c\uff0c\u5171\u7ed8\u65b0\u7bc7",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                360.1000061035156,
+                0.0
+            ]
+        }
+    ],
+    "pages": 3,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

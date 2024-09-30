@@ -1,0 +1,65 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "\u575a\u6301\u201c\u667a\u5e93\u8d4b\u80fd\u201d\u63d0\u5347\u7406\u8bba\u5b66\u4e60\u5b9e\u6548\u6027",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\u575a\u6301\u201c\u6f0f\u6597\u5206\u7ea7\u201d\u63d0\u5347\u7406\u8bba\u5b66\u4e60\u7cbe\u51c6\u6027",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                390.8999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "\u575a\u6301\u201c\u8f6e\u503c\u5206\u4eab\u201d\u63d0\u5347\u7406\u8bba\u5b66\u4e60\u79ef\u6781\u6027",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                769.9000244140625,
+                0.0
+            ]
+        }
+    ],
+    "pages": 4,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

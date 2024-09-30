@@ -1,0 +1,52 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "OLE_LINK5",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                341.0,
+                765.0,
+                0.0
+            ]
+        },
+        {
+            "title": "OLE_LINK1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                68.0,
+                700.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 17,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 34,
+        "code": 0,
+        "table": 13,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

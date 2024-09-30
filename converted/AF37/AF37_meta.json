@@ -1,0 +1,104 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "\u62a5\u544a\u80cc\u666f\u4e0e\u8bc4\u4f30\u6807\u51c6",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                323.3999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "\u8054\u901a\u6570\u79d1\u7684\u6838\u5fc3\u7ade\u4e89\u529b",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                615.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\u9762\u5411\u6570\u5b57\u653f\u5e9c\u5efa\u8bbe\u7684\u521b\u65b0\u5b9e\u8df5",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                277.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\u6210\u529f\u6848\u4f8b\u4e0e\u5e7f\u6cdb\u5e94\u7528",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                537.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\u672a\u6765\u53d1\u5c55\u65b9\u5411",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                103.9000015258789,
+                0.0
+            ]
+        },
+        {
+            "title": "\u5e02\u573a\u5f71\u54cd\u4e0e\u524d\u666f\u5c55\u671b",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                90.0,
+                677.9000244140625,
+                0.0
+            ]
+        }
+    ],
+    "pages": 4,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

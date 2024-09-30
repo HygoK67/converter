@@ -14,13 +14,15 @@ from marker.output import save_markdown
 # configure_logging()
 
 
-
 os.makedirs("./converted", exist_ok=True)
 output_folder = "./converted"
-batch_multiplier = 12
+batch_multiplier = 6
 model_lst = load_all_models()
-for filename in os.listdir("./src_pdfs"):    
+path_dir = "./src_files/src_pdfs"
+for filename in os.listdir(path_dir):
+    filename = os.path.join(path_dir,filename)
+    print(filename)
     full_text, images, out_meta = convert_single_pdf(filename, model_lst, batch_multiplier=batch_multiplier)
-    fname = os.path.basename(fname)
+    fname = os.path.basename(filename)
     subfolder_path = save_markdown(output_folder, fname, full_text, images, out_meta)
     print(f"Convert {filename} markdown to the {subfolder_path} folder")

@@ -1,0 +1,39 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "OLE_LINK1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                31.0,
+                718.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 18,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 36,
+        "code": 0,
+        "table": 12,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

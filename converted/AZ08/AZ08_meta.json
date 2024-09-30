@@ -1,0 +1,689 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "\u7248\u6743\u58f0\u660e",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                234.4499969482422,
+                732.0,
+                0.0
+            ]
+        },
+        {
+            "title": "\u524d  \u8a00",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                268.79998779296875,
+                769.9500122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e00\u3001\u53ef\u6301\u7eed\u4fe1\u606f\u62ab\u9732\u4f5c\u7528\u53ca\u610f\u4e49",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                175.0,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u793e\u4f1a\u8d23\u4efb\u53caESG\u662f\u63a8\u52a8\u53ef\u6301\u7eed\u53d1\u5c55\u91cd\u8981\u65b9\u5f0f",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                738.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u4fe1\u606f\u62ab\u9732\u5bf9\u63a8\u52a8\u53ef\u6301\u7eed\u53d1\u5c55\u5177\u6709\u91cd\u8981\u610f\u4e49",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                486.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e8c\u3001\u53ef\u6301\u7eed\u4fe1\u606f\u62ab\u9732\u8981\u6c42\u53d1\u5c55\u6001\u52bf",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                175.0,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u591a\u5143\u9a71\u52a8\uff0c\u751f\u6001\u7cfb\u7edf\u63d0\u901f\u6784\u5efa",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                738.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u878d\u5408\u4e92\u901a\uff0c\u5173\u6ce8\u91cd\u70b9\u9010\u6b65\u805a\u7126",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                486.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff09\u5b9e\u8df5\u4e3a\u57fa\uff0c\u884c\u4e1a\u5c5e\u6027\u6e10\u8fdb\u53d1\u5c55",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                361.29998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e09\u3001\u53ef\u6301\u7eed\u4fe1\u606f\u62ab\u9732\u5b9e\u8df5\u7a33\u4e2d\u6709\u8fdb",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                175.0,
+                301.8999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u4e00\u4f53\u4e24\u7ffc\u57fa\u672c\u5f62\u6210\uff0c\u5404\u53f8\u5176\u804c\u534f\u540c\u4fe1\u62ab",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                270.70001220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u62a5\u544a\u6570\u8d28\u5e73\u7a33\u53d1\u5c55\uff0cESG\u4e13\u9879\u52bf\u5934\u5f3a\u52b2",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                205.3000030517578,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff09\u62ab\u9732\u8bed\u8a00\u4e2d\u6587\u4e3a\u4e3b\uff0c\u7ba1\u7406\u4fe1\u606f\u6709\u5f85\u63d0\u5347",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                553.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u56db\uff09\u62ab\u9732\u9a8c\u8bc1\u7efc\u5408\u5b9e\u529b\uff0c\u8d44\u672c\u5e02\u573a\u4f20\u5bfc\u660e\u663e",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                205.3000030517578,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e94\uff09\u4e3b\u9898\u62ab\u9732\u504f\u91cd\u7279\u8272\uff0c\u53ef\u6301\u7eed\u8d8b\u5411\u7cfb\u7edf\u5168\u9762",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                506.29998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "\u56db\u3001\u4e3b\u9898\u5b9e\u8df5\u4e4b\u4e2a\u4eba\u4fe1\u606f\u4fdd\u62a4\u4fe1\u606f\u62ab\u9732\u9010\u6b65\u53d1\u5c55",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                175.0,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u4e3b\u9898\u62a5\u544a\u6cd5\u89c4\u660e\u786e\uff0c\u884c\u4e1a\u5b9e\u8df5\u5171\u8bc6\u8f83\u9ad8",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                738.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u4fe1\u606f\u70b9\u62ab\u9732\u4ecd\u9700\u63d0\u5347\uff0c\u7ec4\u7ec7\u6cbb\u7406\u5dee\u5f02\u8f83\u5927",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                330.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff09\u7ba1\u7406\u6b20\u7f3a\u5236\u5ea6\u6570\u636e\uff0c\u884c\u4e1a\u5b9e\u8df5\u4e9f\u9700\u8f6c\u5316",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u56db\uff09\u8d23\u4efb\u94fe\u652f\u6301\u4f18\u4e8e\u76d1\u7763\uff0c\u6280\u672f\u7814\u53d1\u4eae\u70b9\u6d8c\u73b0",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                408.3999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e94\uff09\u5c55\u671b\u62ab\u9732\u878d\u5165\u4e1a\u52a1\uff0c\u5168\u9762\u5c55\u73b0\u884c\u4e1a\u53d1\u5c55",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.3000030517578,
+                330.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e94\u3001\u4e3b\u9898\u5b9e\u8df5\u4e4b\u89c4\u5219\u4fe1\u606f\u62ab\u9732\u884c\u4e1a\u7279\u8272\u7ec6\u5206\u5148\u884c",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                175.0,
+                582.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u900f\u660e\u89c4\u5219\u610f\u4e49\u91cd\u5927\uff0c\u6cd5\u89c4\u805a\u7126\u7ec6\u5206\u9886\u57df",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                551.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u62ab\u9732\u65b9\u5f0f\u53cc\u7ba1\u9f50\u4e0b\uff0c\u65f6\u6548\u4fdd\u969c\u8f83\u4e3a\u5b8c\u5907",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                330.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff09\u900f\u660e\u53ef\u53ca\u53c2\u5dee\u4e0d\u9f50\uff0c\u89c4\u5219\u5c55\u793a\u4e30\u5bcc\u591a\u5143",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                142.89999389648438,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u56db\uff09\u89c4\u8303\u89c4\u5219\u900f\u660e\u539f\u5219\uff0c\u7545\u901a\u89c4\u5219\u53c2\u4e0e\u6e20\u9053",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                166.60000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e94\uff09\u5c55\u671b\u62d3\u5bbd\u7ec6\u5206\u9886\u57df\uff0c\u7740\u529b\u63d0\u5347\u76f8\u5173\u65b9\u8ba4\u77e5",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 54,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\u516d\u3001\u4e3b\u9898\u5b9e\u8df5\u4e4b\u78b3\u4fe1\u606f\u62ab\u9732\u91cd\u8981\u6027\u51f8\u663e\u53d1\u5c55\u8fc5\u901f",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 55,
+            "view_mode": "XYZ",
+            "view_pos": [
+                175.0,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u653f\u7b56\u52a0\u4e25\u8d8b\u52bf\u663e\u8457\uff0c\u62ab\u9732\u610f\u8bc6\u5168\u9762\u63d0\u5347",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 55,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                738.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u62ab\u9732\u5b9e\u8df5\u9010\u6b65\u63d0\u5347\uff0c\u7ec4\u7ec7\u6cbb\u7406\u521d\u5177\u89c4\u6a21",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                236.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff09\u7ec4\u7ec7\u7ba1\u7406\u53d6\u5f97\u7a81\u7834\uff0c\u51cf\u78b3\u5b9e\u8df5\u6709\u5e8f\u63a8\u8fdb",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u56db\uff09\u4ea7\u4e1a\u534f\u540c\u76d1\u7763\u4e3a\u4e3b\uff0c\u51cf\u78b3\u8d4b\u80fd\u6b65\u4f10\u52a0\u5feb",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                221.1999969482422,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e94\uff09\u5c55\u671b\u592f\u5b9e\u6570\u636e\u57fa\u7840\uff0c\u5f3a\u5316\u4ef7\u503c\u4f20\u5bfc\u80fd\u529b",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                141.6999969482422,
+                0.0
+            ]
+        },
+        {
+            "title": "\u4e03\u3001\u53ef\u6301\u7eed\u4fe1\u606f\u62ab\u9732\u53d1\u5c55\u5c55\u671b",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 66,
+            "view_mode": "XYZ",
+            "view_pos": [
+                175.0,
+                239.5,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e00\uff09\u7740\u773c\u957f\u8fdc\uff0c\u52a0\u5f3a\u4f01\u4e1a\u4fe1\u606f\u62ab\u9732\u80fd\u529b\u5efa\u8bbe",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 66,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                208.3000030517578,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e8c\uff09\u76f4\u9762\u6311\u6218\uff0c\u63a8\u52a8\u884c\u4e1a\u62ab\u9732\u6807\u51c6\u843d\u5730\u5b9e\u65bd",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                642.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "\uff08\u4e09\uff09\u7fa4\u7b56\u7fa4\u529b\uff0c\u5171\u5efa\u4fe1\u606f\u62ab\u9732\u591a\u5143\u5171\u6cbb\u4f53\u7cfb",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                191.15000915527344,
+                168.10000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "\u9644\u4ef6\uff1a\u7f29\u7565\u8bed",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                111.0,
+                769.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "1.ESG\uff1a\u73af\u5883\uff08Environmental\uff09\u3001\u793e\u4f1a\uff08Social\uff09\u3001\u6cbb\u7406\uff08Governance\uff09",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                735.7000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "2.UNGC\uff1a\u8054\u5408\u56fd\u5168\u7403\u5951\u7ea6\u7ec4\u7ec7\uff08United Nations Global Compact\uff09",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                704.5,
+                0.0
+            ]
+        },
+        {
+            "title": "3.CSRD\uff1a\u300a\u4f01\u4e1a\u53ef\u6301\u7eed\u53d1\u5c55\u62a5\u544a\u6307\u4ee4\u300b(Corporate Sustainability Report",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                673.2999877929688,
+                0.0
+            ]
+        },
+        {
+            "title": "4.ESRS\uff1a\u300a\u6b27\u6d32\u53ef\u6301\u7eed\u53d1\u5c55\u62a5\u544a\u51c6\u5219\u300b\uff08European Sustainability Reporti",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                610.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "5.ISSB\uff1a\u56fd\u9645\u53ef\u6301\u7eed\u51c6\u5219\u7406\u4e8b\u4f1a\uff08International Sustainability Stand",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                548.5,
+                0.0
+            ]
+        },
+        {
+            "title": "6.TCFD\uff1a\u6c14\u5019\u76f8\u5173\u8d22\u52a1\u4fe1\u606f\u62ab\u9732\u5de5\u4f5c\u7ec4\uff08Task Force on Climate-Related F",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                486.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "7.GRI\uff1a\u5168\u7403\u62a5\u544a\u5021\u8bae\u7ec4\u7ec7\uff08Global Reporting Initiative\uff09",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                423.70001220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "8.EFRAG\uff1a\u6b27\u6d32\u8d22\u52a1\u62a5\u544a\u54a8\u8be2\u7ec4\uff08European Financial Reporting Advis",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                392.5,
+                0.0
+            ]
+        },
+        {
+            "title": "9.IFRS\uff1a\u56fd\u9645\u8d22\u52a1\u62a5\u544a\u51c6\u5219\u57fa\u91d1\u4f1a\uff08International Financial Reporting",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                330.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "10.SASB\uff1a\u53ef\u6301\u7eed\u6027\u4f1a\u8ba1\u51c6\u5219\u59d4\u5458\u4f1a\uff08Sustainability Accounting Standar",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                267.70001220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "11.VRF\uff1a\u4ef7\u503c\u62a5\u544a\u57fa\u91d1\u4f1a\uff08Value Reporting Foundation\uff09",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                205.3000030517578,
+                0.0
+            ]
+        },
+        {
+            "title": "12.TNFD\uff1a\u81ea\u7136\u76f8\u5173\u8d22\u52a1\u62ab\u9732\u5de5\u4f5c\u7ec4\uff08Taskforce for Nature-related Fina",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                174.10000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "13.APP\uff1a\u79fb\u52a8\u4e92\u8054\u7f51\u5e94\u7528\u7a0b\u5e8f\uff08Application\uff09",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                132.0,
+                111.69999694824219,
+                0.0
+            ]
+        }
+    ],
+    "pages": 72,
+    "ocr_stats": {
+        "ocr_pages": 2,
+        "ocr_failed": 0,
+        "ocr_success": 2,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 64,
+        "code": 0,
+        "table": 6,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
